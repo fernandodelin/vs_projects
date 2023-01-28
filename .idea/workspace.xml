@@ -5,34 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b5529f-b00c-4de4-ae05-8f88642653d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vs_projects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01 Gusttavo Lima - Zé da recaída.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 Boate Azul (Ao Vivo).m4a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex012_Calculando_descontos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex013_Reajuste_salarial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex014_conversor_de_temperatura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex015_calculando_aluguel_carro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex016_quebrando_numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex017_calculando_hipotenusa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex018_calculando_sen_con_tg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex019_Sorteando_um_item_na_lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex020_Sorteando_uma_ordem_na_lista.py.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex021_reproduzir_MP3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex022_examinando_nomes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex023_examinando_numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex024_procurando_nome_cidades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex025_procurando_string_dentro_de_outra.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex026_analisando_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex027_analise_de_nome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex028_first_if_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex029_radar_de_velocidade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex030_Par_ou_impar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,5 +58,16 @@
       <updated>1674238069082</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
