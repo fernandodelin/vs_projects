@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b5529f-b00c-4de4-ae05-8f88642653d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex036_Emprestimo_bancario_casa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex037_conversor_binarios_octal_hexadecimal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex038_comparando_dois_numeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,14 +24,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ex022_examinando_nomes.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/ex038_comparando_dois_numeros.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/ex039_Alistamento_militar.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2KbKv3aKZwGJudUK2TcXoWk941z" />
   <component name="ProjectViewState">
@@ -47,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "C:/Users/Fernando/.ideavimrc",
+    "last_opened_file_path": "C:/Users/Fernando/vs_projects",
     "settings.editor.selected.configurable": "configurable.group.language"
   },
   "keyToStringList": {
