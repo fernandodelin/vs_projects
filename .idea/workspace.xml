@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b5529f-b00c-4de4-ae05-8f88642653d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex064_tratando_varios_valores.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex064_tratando_varios_valores.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex065_Maior_e_menor_e_media.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex065_Maior_e_menor_e_media.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +40,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "C:/Users/Fernando/vs_projects",
-    "settings.editor.selected.configurable": "configurable.group.language"
+    "last_opened_file_path": "C:/Users/Fernando/vs_projects_python/venv",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
