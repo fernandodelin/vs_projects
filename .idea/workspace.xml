@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91b5529f-b00c-4de4-ae05-8f88642653d3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ex064_tratando_varios_valores.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex064_tratando_varios_valores.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex065_Maior_e_menor_e_media.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex065_Maior_e_menor_e_media.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula_020_funções.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula_021_funções_pt2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex096_função_que_calcula_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex097_print_especial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex098_função_contador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex099_função_que_descobre_o_maior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex100_funções_para_sortear_e_somar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,22 +40,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TODO_SCOPE": "All Places",
-    "last_opened_file_path": "C:/Users/Fernando/vs_projects_python/venv",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Fernando/vs_projects_python/venv&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Fernando\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="91b5529f-b00c-4de4-ae05-8f88642653d3" name="Changes" comment="" />
